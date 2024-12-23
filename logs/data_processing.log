@@ -9,3 +9,9 @@
 2024-12-23 12:13:10,141 - INFO - Test size loaded: 0.25.
 2024-12-23 12:13:10,142 - INFO - Data split into train and test sets with test_size=0.25.
 2024-12-23 12:13:10,153 - INFO - Data saved at data\raw.
+2024-12-23 12:44:56,047 - INFO - Data loaded from C:\Users\N51907\Documents\TestRepo\data\loan_approval_dataset.csv.
+2024-12-23 12:44:56,048 - INFO - Column names cleaned.
+2024-12-23 12:44:56,049 - INFO - Data split into features and target.
+2024-12-23 12:44:56,050 - INFO - Test size loaded: 0.3.
+2024-12-23 12:44:56,051 - INFO - Data split into train and test sets with test_size=0.3.
+2024-12-23 12:44:56,065 - INFO - Data saved at data\raw.
