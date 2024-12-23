@@ -71,7 +71,7 @@ def split_data(df):
 def get_test_size():
     """Loads test size from YAML config."""
     try:
-        with open('C:\\Users\\N51907\\Documents\\TestRepo\data\\params.yaml', 'r') as file:
+        with open('C:\\Users\\N51907\\Documents\\TestRepo\\params.yaml', 'r') as file:
             test_size = yaml.safe_load(file)['data_ingestion']['test_size']
         logger.info(f"Test size loaded: {test_size}.")
         return test_size

@@ -1,0 +1,11 @@
+2024-12-23 12:12:53,074 - INFO - Data loaded from C:\Users\N51907\Documents\TestRepo\data\loan_approval_dataset.csv.
+2024-12-23 12:12:53,075 - INFO - Column names cleaned.
+2024-12-23 12:12:53,076 - INFO - Data split into features and target.
+2024-12-23 12:12:53,076 - ERROR - Config file not found: params.yaml. Error: [Errno 2] No such file or directory: 'C:\\Users\\N51907\\Documents\\TestRepo\\data\\params.yaml'
+2024-12-23 12:12:53,077 - ERROR - An error occurred: [Errno 2] No such file or directory: 'C:\\Users\\N51907\\Documents\\TestRepo\\data\\params.yaml'
+2024-12-23 12:13:10,134 - INFO - Data loaded from C:\Users\N51907\Documents\TestRepo\data\loan_approval_dataset.csv.
+2024-12-23 12:13:10,138 - INFO - Column names cleaned.
+2024-12-23 12:13:10,140 - INFO - Data split into features and target.
+2024-12-23 12:13:10,141 - INFO - Test size loaded: 0.25.
+2024-12-23 12:13:10,142 - INFO - Data split into train and test sets with test_size=0.25.
+2024-12-23 12:13:10,153 - INFO - Data saved at data\raw.
